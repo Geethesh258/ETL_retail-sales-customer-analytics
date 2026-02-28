@@ -122,4 +122,4 @@ This project showcases the ability to transform raw transactional data into stru
 
 ---
 
-### 👤 Developed by: Geethesh
+### 👤 Developed by: Geethesh Kumar R
