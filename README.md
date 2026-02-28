@@ -12,6 +12,14 @@ The objective was to transform raw transactional data into meaningful business i
 The project demonstrates structured data processing, analytical thinking, and business-oriented insight generation.
 
 ---
+## 📊 Dashboard Highlights
+
+| Overview | RFM Segmentation | Cohort Retention |
+|----------|-----------------|-----------------|
+| ![Overview](Images/img1.png) | ![RFM](Images/img2.png) | ![Cohort](Images/img3.png) |
+
+---
+
 
 ## 🛠 Tools & Technologies
 
@@ -85,13 +93,6 @@ This project enables data-driven decision-making by:
 
 ---
 
-## 📊 Dashboard Highlights
-
-| Overview | RFM Segmentation | Cohort Retention |
-|----------|-----------------|-----------------|
-| ![Overview](Images/img1.png) | ![RFM](Images/img2.png) | ![Cohort](Images/img3.png) |
-
----
 
 ## 📦 How to Run This Project
 
